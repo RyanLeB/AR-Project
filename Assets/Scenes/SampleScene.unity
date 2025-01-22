@@ -555,7 +555,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &173779101
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1176,7 +1176,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 9ad1a8c9fc5a05942ab50d44a28a1be5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1215,8 +1215,8 @@ Transform:
   m_GameObject: {fileID: 276893397}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.7463694, y: -0.27513695, z: 5.2014737}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.83, y: -0.27513695, z: 5.2014737}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2090,7 +2090,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &595971758
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4014,7 +4014,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1024622694
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5052,7 +5052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   trackedObject: {fileID: 276893397}
-  targetColor: {r: 1, g: 0, b: 0, a: 1}
+  targetColor: {r: 0.7169812, g: 0, b: 0, a: 1}
   colorThreshold: 0.2
   movementSmoothing: 5
 --- !u!64 &1241559037
@@ -5135,13 +5135,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1241559035}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.22502375, y: 0.7478531, z: -0.54923695, w: 0.29735306}
-  m_LocalPosition: {x: -4.04, y: -1.48, z: 2.58}
+  m_LocalRotation: {x: 0.01563577, y: 0.6910207, z: -0.72260827, w: 0.009117582}
+  m_LocalPosition: {x: 0.5, y: -0, z: 5.71}
   m_LocalScale: {x: 0.76, y: 1, z: 0.67}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 107.192, y: -41.945984, z: -178.074}
+  m_LocalEulerAnglesHint: {x: 92.61401, y: 167.337, z: -10.656006}
 --- !u!1 &1262986090
 GameObject:
   m_ObjectHideFlags: 0
